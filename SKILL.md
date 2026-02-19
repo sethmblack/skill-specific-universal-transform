@@ -3,8 +3,9 @@ name: specific-universal-transform
 description: Transform abstract emotional language into concrete, specific sensory details that paradoxically create more universal resonance.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5025
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - specific-universal-transform
 - storytelling
